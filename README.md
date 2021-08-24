@@ -4,6 +4,9 @@
 
 *On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to the over 118,000 cases of the coronavirus illness in over 110 countries and territories around the world at the time.*
 
+## Python Libaries Used: 
+### *pandas, numpy, matplotlip, datetime, plotly, folium, math, random  *
+
 ## Data Sourcing
 
 The data used in this project sourced from [this upstream repository](https://github.com/CSSEGISandData/COVID-19) maintained by [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/) (CSSE).
