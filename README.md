@@ -5,7 +5,7 @@
 *On March 11 2020, the World Health Organization (WHO) declared it a pandemic, pointing to the over 118,000 cases of the coronavirus illness in over 110 countries and territories around the world at the time.*
 
 ## Python Libaries Used: 
-### *pandas, numpy, matplotlip, datetime, plotly, folium, math, random  *
+### *pandas, numpy, matplotlip, datetime, plotly, folium, math, random*
 
 ## Data Sourcing
 
